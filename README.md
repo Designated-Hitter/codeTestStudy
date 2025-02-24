@@ -7,10 +7,10 @@
 - ❌: Not solved 못 풀었음
 
 ## **목록**
-|No|문제번호|문제명|난이도|풀이|
+|No|푼 곳|문제명|난이도|풀이|
 |:-:|:-----:|-------|:-----:|:-----:|
-|1|[0001](https://leetcode.com/problems/two-sum/) |Two Sum|EASY|✅|
-|2|[0015](https://leetcode.com/problems/3sum/) |3 Sum|MEDIUM|⚠️|
-|3|[0009](https://leetcode.com/problems/palindrome-number/) |Palindrome Number|EASY|✅|
-|4|[0007](https://leetcode.com/problems/reverse-integer/) |Reverse Integer|MEDIUM|✅|
-|5|[0412](https://leetcode.com/problems/fizz-buzz/) |Fizz Buzz|EASY|✅|
+|1|프로그래머스|Two Sum(링크)|EASY|✅|
+|2|leetcode|3 Sum|MEDIUM|⚠️|
+|3|백준|Palindrome Number|EASY|✅|
+|4|프로그래머스|Reverse Integer|MEDIUM|✅|
+|5|leetcode|Fizz Buzz|EASY|✅|
