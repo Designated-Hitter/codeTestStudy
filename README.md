@@ -9,7 +9,7 @@
 ## **목록**
 |No|푼 곳|문제명|난이도|풀이|
 |:-:|:-----:|-------|:-----:|:-----:|
-|1|프로그래머스|Two Sum(링크)|EASY|✅|
+|1|프로그래머스|동영상 재생기(https://school.programmers.co.kr/learn/courses/30/lessons/340213?language=javascript)|level.1|✅|
 |2|leetcode|3 Sum|MEDIUM|⚠️|
 |3|백준|Palindrome Number|EASY|✅|
 |4|프로그래머스|Reverse Integer|MEDIUM|✅|
