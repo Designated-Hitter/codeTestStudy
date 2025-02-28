@@ -12,5 +12,5 @@
 |1|프로그래머스|[동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213?language=javascript)|level.1|✅|
 |2|프로그래머스|[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|level.2|⚠️|
 |3|프로그래머스|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|level.2|⚠️|
-|4||||✅|
+|4|프로그래머스|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|level.2|✅|
 |5||||✅|
