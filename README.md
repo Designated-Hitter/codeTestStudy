@@ -14,4 +14,4 @@
 |3|프로그래머스|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|level.2|⚠️|
 |4|프로그래머스|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|level.2|✅|
 |5|프로그래머스|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|level.2|❌|
-|6|프로그래머스|[수식 최대](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|level.2|⚠️|
+|6|프로그래머스|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|level.2|⚠️|
