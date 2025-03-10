@@ -16,3 +16,4 @@
 |5|프로그래머스|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|level.2|❌|
 |6|프로그래머스|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|level.2|⚠️|
 |7|프로그래머스|[혼자놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|level.2|⚠️|
+|8|프로그래머스|[택배상](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|level.2|⚠️|
