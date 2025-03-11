@@ -17,3 +17,4 @@
 |6|프로그래머스|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|level.2|⚠️|
 |7|프로그래머스|[혼자놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|level.2|⚠️|
 |8|프로그래머스|[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|level.2|⚠️|
+|9|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335?language=javascript)|level.2|⚠️|
