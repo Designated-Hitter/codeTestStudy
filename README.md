@@ -27,3 +27,4 @@
 |16|프로그래머스|[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)|level.1|✅|
 |17|프로그래머스|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|level.2|⚠️|
 |18|프로그래머스|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=javascript)|level.1|✅|
+|19|프로그래머스|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|level.2|❌|
