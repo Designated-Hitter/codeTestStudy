@@ -29,3 +29,6 @@
 |18|프로그래머스|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=javascript)|level.1|✅|
 |19|프로그래머스|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|level.2|❌|
 |20|프로그래머스|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|level.1|⚠️|
+|21|프로그래머스|[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|level.1|⚠️|
+|22|프로그래머스|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|level.1|⚠️|
+
