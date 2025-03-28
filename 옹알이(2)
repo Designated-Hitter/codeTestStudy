@@ -1,0 +1,21 @@
+function solution(babbling) {
+    let answer = 0;
+    const ddyuddya = ["aya", "ye", "woo", "ma"];
+    for (let i = 0; i < babbling.length; i++) {
+        let word = babbling[i];
+        
+        //연속된 같은 발음이 있는 경우 배제
+        if (/ayaaya|yeye|woowoo|mama/.test(word)) continue;
+        
+        //네가지 단어만으로 이루어졌는지 확인
+        for (let w of ddyuddya) {
+            word = word.split(w).join(" ");
+        }
+        
+        //모든 발음을 제거한 결과가 공백이면 유효한 단어
+        if (word.trim() === "") {
+            answer++;
+        }
+    }
+    return answer;
+}
