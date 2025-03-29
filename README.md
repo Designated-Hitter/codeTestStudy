@@ -31,4 +31,4 @@
 |20|프로그래머스|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|level.1|⚠️|
 |21|프로그래머스|[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|level.1|⚠️|
 |22|프로그래머스|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|level.1|⚠️|
-
+|23|프로그래머스|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|level.1|⚠️|
