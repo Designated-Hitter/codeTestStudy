@@ -33,4 +33,4 @@
 |22|프로그래머스|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|level.1|⚠️|
 |23|프로그래머스|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|level.1|⚠️|
 |24|프로그래머스|[[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|level.1|⚠️|
-
+|25|프로그래머스|[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|level.1|✅|
