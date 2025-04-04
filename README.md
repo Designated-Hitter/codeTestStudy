@@ -36,3 +36,4 @@
 |25|프로그래머스|[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|level.1|✅|
 |26|프로그래머스|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|level.1|⚠️|
 |27|프로그래머스|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|level.1|⚠️|
+|28|프로그래머스|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|level.1|⚠️|
