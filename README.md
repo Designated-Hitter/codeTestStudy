@@ -38,3 +38,4 @@
 |27|프로그래머스|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|level.1|⚠️|
 |28|프로그래머스|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|level.1|⚠️|
 |29|프로그래머스|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|level.1|✅|
+|30|프로그래머스|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|level.1|✅|
